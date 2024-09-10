@@ -1,5 +1,10 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=WELLCOME+TO+YIRYUNG'S+GITHUB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=WELCOME+TO+YIRYUNG'S+GITHUB)](https://git.io/typing-svg)
+
+YIRYUNG
+<a href="https://velog.io/@yi_ryung/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+
+
 <!--
 **JungYiryung/JungYiryung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
