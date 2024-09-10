@@ -1,10 +1,14 @@
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=WELCOME+TO+YIRYUNG'S+GITHUB)](https://git.io/typing-svg)
 
-CONTACT 
-<br>
-<a href="https://velog.io/@yi_ryung/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-
+<div>
+  <div>
+    CONTACT
+  </div>
+  <div>
+    <a href="https://velog.io/@yi_ryung/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+  </div>
+  
 STUDYING
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
