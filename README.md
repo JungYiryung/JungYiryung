@@ -2,6 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=WELCOME+TO+YIRYUNG'S+GITHUB)](https://git.io/typing-svg)
 
 YIRYUNG
+<br>
 <a href="https://velog.io/@yi_ryung/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 
