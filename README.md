@@ -3,7 +3,6 @@
 
 
 ## :blush: CONTACT :blush:
-<a href="https://velog.io/@yi_ryung/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 ## :eyes: STUDYING :computer:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
